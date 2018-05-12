@@ -1,0 +1,24 @@
+_repo: LeatherFrom-the-Raw-Material-to-the-Finished-Product_43377
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43377-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adcock, K. J.
+    gutenberg_agent_id: '42164'
+    url: http://www.gutenberg.org/2009/agents/42164
+description: ''
+gutenberg_issued: '2013-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leather'
+- !lcc 'HD'
+title: 'Leather: From the Raw Material to the Finished Product'
+url: http://www.gutenberg.org/ebooks/43377
